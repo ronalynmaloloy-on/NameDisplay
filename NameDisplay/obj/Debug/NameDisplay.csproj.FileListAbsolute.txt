@@ -1,0 +1,10 @@
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\bin\Debug\NameDisplay.exe.config
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\bin\Debug\NameDisplay.exe
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\bin\Debug\NameDisplay.pdb
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.csproj.AssemblyReference.cache
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.Form1.resources
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.Properties.Resources.resources
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.csproj.GenerateResource.cache
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.exe
+C:\Users\Charlimagne\Desktop\NameDisplay\NameDisplay\obj\Debug\NameDisplay.pdb
